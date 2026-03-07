@@ -57,7 +57,6 @@ def lang_dir_walk(lang_root, desc_str, func):
             if not file.endswith('.csv'):
                 continue
             file_path = os.path.join(root, file)
-            print(f"{desc_str} {file} ", end="")
             try:
                 func(file_path)
             except Exception as e:
