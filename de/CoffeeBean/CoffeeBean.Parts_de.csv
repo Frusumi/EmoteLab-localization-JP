@@ -2,7 +2,7 @@ Key,en,de,reviewed
 Brows,Brows,Augenbrauen,True
 Ear,Ear,Ohr,True
 Eye,Eye,Auge,True
-Base Hair,Base Hair,Basishaar,True
+Base Hair,Base Hair,Basishaare,True
 Hair Bang >>,Hair Bang >>,Pony >>,True
 Hair Bang ><,Hair Bang ><,Pony ><,True
 Hair Bang <<,Hair Bang <<,Pony <<,True
@@ -24,9 +24,9 @@ Hair Highlight 6 ><,Hair Highlight 6 ><,Haar-Highlight 6 ><,True
 Hair Highlight 1 <<,Hair Highlight 1 <<,Haar-Highlight 1 <<,True
 Hair Highlight 2 <<,Hair Highlight 2 <<,Haar-Highlight 2 <<,True
 Hair Highlight 3 <<,Hair Highlight 3 <<,Haar-Highlight 3 <<,True
-Hair Side,Hair Side,Haar Seite,True
+Hair Side,Hair Side,Haare Seite,True
 Hair Ahoge,Hair Ahoge,Haare Ahoge,True
-Hair Rear,Hair Rear,Haare Hinten,True
+Hair Rear,Hair Rear,Haare hinten,True
 Hair Pigtail >>,Hair Pigtail >>,Haarzopf >>,True
 Hair Pigtail <<,Hair Pigtail <<,Haarzopf <<,True
 Animal Ear,Animal Ear,Tierohr,True
@@ -49,10 +49,10 @@ Horn Front,Horn Front,Horn vorne,True
 Mecha,Mecha,Mecha,True
 Outfit Collar Inner,Outfit Collar Inner,Outfit-Kragen innen,True
 Outfit Inner,Outfit Inner,Outfit innen,True
-Outfit Outer,Outfit Outer,Äußeres Outfit,True
-Outfit Neckwear A,Outfit Neckwear A,Outfit Krawatte A,True
-Outfit Neckwear B,Outfit Neckwear B,Outfit Krawatte B,True
-Outfit Neckwear C,Outfit Neckwear C,Outfit Krawatte C,True
+Outfit Outer,Outfit Outer,Outfit außen,True
+Outfit Neckwear A,Outfit Neckwear A,Outfit Halsschmuck A,True
+Outfit Neckwear B,Outfit Neckwear B,Outfit Halsschmuck B,True
+Outfit Neckwear C,Outfit Neckwear C,Outfit Halsschmuck C,True
 Hair Side Branch >> A,Hair Side Branch >> A,Haarseitenzweig >> A,True
 Hair Side Branch >> B,Hair Side Branch >> B,Haarseitenzweig >> B,True
 Hair Side Branch >> C,Hair Side Branch >> C,Haarseitenzweig >> C,True
