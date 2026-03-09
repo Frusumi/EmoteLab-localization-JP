@@ -1,7 +1,7 @@
 Key,en,de,reviewed
 MainMenu.TabHeaderLable.Editor,Editor,Editor,False
-MainMenu.Editor.CharacterPopup.DeleteCharacterPrompt,"Are you sure you want to delete character ""{0}""? This action cannot be undone.","Sind Sie sicher, dass Sie das Zeichen „{0}“ löschen möchten? Diese Aktion kann nicht rückgängig gemacht werden.",False
-MainMenu.Editor.CharacterPopup.OverwriteCharacterPrompt,"Character ""{0}"" already exist. Are you sure you want to overwrite character ""{0}""? This action cannot be undone.","Das Zeichen „{0}“ ist bereits vorhanden. Sind Sie sicher, dass Sie das Zeichen „{0}“ überschreiben möchten? Diese Aktion kann nicht rückgängig gemacht werden.",False
+MainMenu.Editor.CharacterPopup.DeleteCharacterPrompt,"Are you sure you want to delete character ""{0}""? This action cannot be undone.","Sind Sie sicher, dass Sie den Charakter „{0}“ löschen möchten? Diese Aktion kann nicht rückgängig gemacht werden.",False
+MainMenu.Editor.CharacterPopup.OverwriteCharacterPrompt,"Character ""{0}"" already exist. Are you sure you want to overwrite character ""{0}""? This action cannot be undone.","Der Charakter „{0}“ ist bereits vorhanden. Sind Sie sicher, dass Sie den Charakter „{0}“ überschreiben möchten? Diese Aktion kann nicht rückgängig gemacht werden.",False
 MainMenu.Confirm,Confirm,Bestätigen,False
 MainMenu.Cancel,0Cancel,0Abbrechen,False
 MainMenu.Editor.CharacterPopup.SaveCharacterPrompt,Please enter a character name:,Bitte geben Sie einen Charakternamen ein:,False
@@ -12,17 +12,17 @@ MainMenu.Editor.PartsSelection,Choose Parts,Wählen Sie Teile,False
 MainMenu.Editor.PartsAdjustment,Adjustment,Einstellung,False
 MainMenu.Search,Search...,Suchen...,False
 MainMenu.Editor.SaveCharacter,Save Character,Charakter speichern,False
-MainMenu.Editor.Unload,Clear Character,Klarer Charakter,False
+MainMenu.Editor.Unload,Clear Character,Charakter zurücksetzen,False
 MainMenu.Editor.DeleteCharacter,Delete Character,Charakter löschen,False
-MainMenu.Editor.UseCustomTextures,Use Custom Textures,Verwenden Sie benutzerdefinierte Texturen,False
+MainMenu.Editor.UseCustomTextures,Use Custom Textures,Benutzerdefinierte Texturen verwenden,False
 MainMenu.Editor.ReloadTextures,Reload Textures,Texturen neu laden,False
-MainMenu.Editor.OpenCustomTextureFolder,Open Custom Texture Folder,Öffnen Sie den Ordner „Benutzerdefinierte Texturen“.,False
+MainMenu.Editor.OpenCustomTextureFolder,Open Custom Texture Folder,Ordner für benutzerdefinierte Texturen öffnen,False
 MainMenu.Editor.Color,Color,Farbe,False
 MainMenu.Editor.TintColor,TintColor,TintColor,False
 MainMenu.Editor.TintBlackColor,TintBlackColor,TintBlackColor,False
 MainMenu.Editor.LICENSE,LICENSE,LIZENZ,False
-MainMenu.Editor.AssetTypeAA,Default Assets,Standardvermögen,False
-MainMenu.Editor.AssetTypeSA,Third-Party Assets,Vermögenswerte Dritter,False
+MainMenu.Editor.AssetTypeAA,Default Assets,Standard-Assets,False
+MainMenu.Editor.AssetTypeSA,Third-Party Assets,Drittanbieter-Assets,False
 MainMenu.Editor.CharacterPopup.CharacterNameEmpty,Name cannot be empty.,Der Name darf nicht leer sein.,False
 MainMenu.Editor.CharacterPopup.CharacterNameLength,Name cannot exceed {0} characters.,Der Name darf nicht länger als {0} Zeichen sein.,False
 MainMenu.Editor.CharacterPopup.CharacterNameInvalidCharacter,"Name cannot contain the character ""{0}"".",Der Name darf das Zeichen „{0}“ nicht enthalten.,False
@@ -36,17 +36,17 @@ MainMenu.Settings.ViewportSettings,Viewport Settings,Ansichtsfenstereinstellunge
 MainMenu.Settings.ViewportSettings.ViewportZoomSpeed,Zoom Speed,Zoomgeschwindigkeit,False
 MainMenu.Settings.ViewportSettings.ViewportRotationSpeed,Rotation Speed,Rotationsgeschwindigkeit,False
 MainMenu.Settings.ViewportSettings.ModelScale,Model Scale,Modellmaßstab,False
-MainMenu.Settings.ViewportSettings.ModelOffsetHorizontal,Offset Horizontal,Horizontal versetzt,False
+MainMenu.Settings.ViewportSettings.ModelOffsetHorizontal,Offset Horizontal,Horizontaler Versatz,False
 MainMenu.Settings.ViewportSettings.ModelOffsetVertical,Offset Vertical,Vertikaler Versatz,False
 MainMenu.Settings.ViewportSettings.ResetViewportSettings,Reset Viewport Settings,Ansichtsfenstereinstellungen zurücksetzen,False
 MainMenu.Settings.ExportSettings,Animation Export Settings,Animationsexporteinstellungen,False
-MainMenu.Settings.ExportSettings.SaveLocation,Save Location,Standort speichern,False
-MainMenu.Settings.ExportSettings.ExportPresets,Export Presets,Voreinstellungen exportieren,False
+MainMenu.Settings.ExportSettings.SaveLocation,Save Location,Speicherort,False
+MainMenu.Settings.ExportSettings.ExportPresets,Export Presets,Export-Voreinstellungen,False
 MainMenu.Settings.ExportSettings.Encoder,Encoder,Encoder,False
 MainMenu.Settings.ExportSettings.Width,Width,Breite,False
 MainMenu.Settings.ExportSettings.Height,Height,Höhe,False
 MainMenu.Settings.ExportSettings.FPS,FPS,FPS,False
-MainMenu.Settings.ExportSettings.LimitMaxFrameCount,Limit Max. Frame Count,Max. begrenzen. Frame-Anzahl,False
+MainMenu.Settings.ExportSettings.LimitMaxFrameCount,Limit Max. Frame Count,Max. Frame-Anzahl begrenzen,False
 MainMenu.Settings.ExportSettings.MaxFrameCount,Max. Frame Count,Max. Frame-Anzahl,False
 MainMenu.Settings.ExportSettings.AlphaThreshold,Alpha Threshold,Alpha-Schwelle,False
 MainMenu.Settings.ExportSettings.EnableDithering,Enable Dithering,Dithering aktivieren,False
@@ -55,19 +55,19 @@ MainMenu.Editor.Export,Export Emote,Emote exportieren,False
 LicensePopup.ThirdPartyLicense.Notice,License provided by the model creator. Displayed for reference only and does not represent the EmoteLab developer’s views or legal position. ,Lizenz vom Modellersteller bereitgestellt. Wird nur als Referenz angezeigt und gibt nicht die Ansichten oder Rechtsposition des EmoteLab-Entwicklers wieder.,False
 LicensePopup.ThirdPartyLicense.NotFound,License not found. Confirm permitted use with the creator.,Lizenz nicht gefunden. Bestätigen Sie die erlaubte Nutzung mit dem Ersteller.,False
 LicensePopup.Close,Close,Schließen,False
-MainMenu.Editor.OpenExportFolder,Open Export Folder,Öffnen Sie den Exportordner,False
-MainMenu.Settings.ModelSettings.LoadSampleCharacters,Load Sample Characters for Built-in Models,Laden Sie Beispielzeichen für integrierte Modelle,False
+MainMenu.Editor.OpenExportFolder,Open Export Folder,Exportordner öffnen,False
+MainMenu.Settings.ModelSettings.LoadSampleCharacters,Load Sample Characters for Built-in Models,Beispiel-Charaktere für integrierte Modelle laden,False
 MainMenu.Settings.ModelSettings,Model Settings,Modelleinstellungen,False
-MainMenu.Editor.CharacterPopup.SavingCharacter,Saving Character Data...,Zeichendaten werden gespeichert...,False
+MainMenu.Editor.CharacterPopup.SavingCharacter,Saving Character Data...,Charakterdaten werden gespeichert...,False
 MainMenu.Editor.CharacterPopup.LoadingCharacter,Loading Character...,Charakter wird geladen...,False
 MainMenu.Info.ThirdPartyLicense,Third Party Licenses,Lizenzen Dritter,False
 MainMenu.Info.EmoteLabEULA,End User License Agreement (EULA),Endbenutzer-Lizenzvereinbarung (EULA),False
 MainMenu.Info.Documentation,Documentation,Dokumentation,False
 MainMenu.Info.Discord,Join Our Discord,Treten Sie unserem Discord bei,False
 MainMenu.Settings.ExportSettings.PresetsInfo,"This preset sets the correct format and dimensions. Very long animations may exceed platform file size limits, and some platforms restrict certain content.",Diese Voreinstellung legt das richtige Format und die richtigen Abmessungen fest. Sehr lange Animationen können die Dateigrößenbeschränkungen der Plattform überschreiten und einige Plattformen schränken bestimmte Inhalte ein.,False
-MainMenu.Settings.ModelSettings.OpenLocalModelFolder,Open Local Model Folder,Öffnen Sie den lokalen Modellordner,False
-MainMenu.Settings.ModelSettings.OpenCharacterFolder,Open Character Folder,Öffnen Sie den Zeichenordner,False
-MainMenu.Info.Log,Open Log Folder,Öffnen Sie den Protokollordner,False
+MainMenu.Settings.ModelSettings.OpenLocalModelFolder,Open Local Model Folder,Lokalen Modellordner öffnen,False
+MainMenu.Settings.ModelSettings.OpenCharacterFolder,Open Character Folder,Charakterordner öffnen,False
+MainMenu.Info.Log,Open Log Folder,Protokollordner öffnen,False
 MainMenu.Settings.ExportSettings.UsingGlobalColorTable,Using Global Color Table,Verwendung der globalen Farbtabelle,False
 MainMenu.Editor.ExportStatic,Export Static Image,Statisches Bild exportieren,False
 MainMenu.Editor.Player.Speed,Speed,Geschwindigkeit,False
@@ -87,7 +87,7 @@ MainMenu.Editor.Texture.Step4,Step 4,Schritt 4,False
 MainMenu.Editor.Texture.AlphaBleed,Fix Selected Outline,Ausgewählte Kontur korrigieren,False
 MainMenu.Editor.Texture.ResetAtlas,Reset Selected Atlas,Ausgewählten Atlas zurücksetzen,False
 MainMenu.Editor.Texture.TextureUtility,Texture Utility,Textur-Dienstprogramm,False
-MainMenu.Editor.Texture.SelectAll,Select All,Wählen Sie „Alle“ aus,False
+MainMenu.Editor.Texture.SelectAll,Select All,Alle auswählen,False
 MainMenu.Editor.Texture.ToggleSelection,Toggle Selection,Auswahl umschalten,False
 MainMenu.Editor.Texture.AtlasList,Atlas List,Atlas-Liste,False
 MainMenu.Editor.Texture.ResetWarning,This will reset the selected atlas pages to the built-in versions. Any unsaved edits will be lost and cannot be recovered. Continue?,Dadurch werden die ausgewählten Atlasseiten auf die integrierten Versionen zurückgesetzt. Alle nicht gespeicherten Änderungen gehen verloren und können nicht wiederhergestellt werden. Weitermachen?,False

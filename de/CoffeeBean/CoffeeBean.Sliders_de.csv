@@ -4,20 +4,20 @@ Brows Distance,Brows Distance,Augenbrauenabstand,False
 Brows Height,Brows Height,Augenbrauenhöhe,False
 Ear Shape 1,Ear Shape 1,Ohrform 1,False
 Ear Shape 2,Ear Shape 2,Ohrform 2,False
-Hair Bang >< Length,Hair Bang >< Length,Haarknall >< Länge,False
-Hair Bang >< Shear,Hair Bang >< Shear,Haarknall >< Scheren,False
-Hair Bang >> Position,Hair Bang >> Position,Haarknall >> Position,False
-Hair Bang >> Length,Hair Bang >> Length,Haarknall >> Länge,False
-Hair Bang >> Shear,Hair Bang >> Shear,Haarknall >> Scheren,False
-Hair Bang << Position,Hair Bang << Position,Haarknall << Position,False
-Hair Bang << Length,Hair Bang << Length,Haarknall << Länge,False
-Hair Bang << Shear,Hair Bang << Shear,Haarknall << Scheren,False
+Hair Bang >< Length,Hair Bang >< Length,Pony >< Länge,False
+Hair Bang >< Shear,Hair Bang >< Shear,Pony >< Scherung,False
+Hair Bang >> Position,Hair Bang >> Position,Pony >> Position,False
+Hair Bang >> Length,Hair Bang >> Length,Pony >> Länge,False
+Hair Bang >> Shear,Hair Bang >> Shear,Pony >> Scherung,False
+Hair Bang << Position,Hair Bang << Position,Pony << Position,False
+Hair Bang << Length,Hair Bang << Length,Pony << Länge,False
+Hair Bang << Shear,Hair Bang << Shear,Pony << Scherung,False
 Hair Framing << Length,Hair Framing << Length,Haarrahmen << Länge,False
 Hair Framing >> Length,Hair Framing >> Length,Haarrahmen >> Länge,False
 Hair Side Length,Hair Side Length,Haarseitenlänge,False
 Hair Rear Length,Hair Rear Length,Haarlänge hinten,False
 Ahoge Position,Ahoge Position,Ahoge-Position,False
-Ahoge Angle,Ahoge Angle,Ahoge Angle,False
+Ahoge Angle,Ahoge Angle,Ahoge-Winkel,False
 Animal Ear & Antenna Position,Animal Ear & Antenna Position,Tierohr- und Antennenposition,False
 Fin & Gill Position,Fin & Gill Position,Flossen- und Kiemenposition,False
 Halo Position,Halo Position,Halo-Position,False

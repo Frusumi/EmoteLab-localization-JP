@@ -3,9 +3,9 @@ Brows,Brows,Augenbrauen,False
 Ear,Ear,Ohr,False
 Eye,Eye,Auge,False
 Base Hair,Base Hair,Basishaar,False
-Hair Bang >>,Hair Bang >>,Haarknall >>,False
-Hair Bang ><,Hair Bang ><,Haarknall ><,False
-Hair Bang <<,Hair Bang <<,Haarknall <<,False
+Hair Bang >>,Hair Bang >>,Pony >>,False
+Hair Bang ><,Hair Bang ><,Pony ><,False
+Hair Bang <<,Hair Bang <<,Pony <<,False
 Hair Shine,Hair Shine,Haarglanz,False
 Hair Branch >>,Hair Branch >>,Haarzweig >>,False
 Hair Branch <<,Hair Branch <<,Haarzweig <<,False
@@ -33,7 +33,7 @@ Animal Ear,Animal Ear,Tierohr,False
 Antenna,Antenna,Antenne,False
 Fin,Fin,Flosse,False
 Gill,Gill,Kieme,False
-Glasses,Glasses,Gläser,False
+Glasses,Glasses,Brille,False
 Hairband A,Hairband A,Haarband A,False
 Hairband B,Hairband B,Haarband B,False
 Hairband C,Hairband C,Haarband C,False
@@ -51,8 +51,8 @@ Outfit Collar Inner,Outfit Collar Inner,Outfit-Kragen innen,False
 Outfit Inner,Outfit Inner,Outfit innen,False
 Outfit Outer,Outfit Outer,Äußeres Outfit,False
 Outfit Neckwear A,Outfit Neckwear A,Outfit Krawatte A,False
-Outfit Neckwear B,Outfit Neckwear B,Outfit Neckwear B,False
-Outfit Neckwear C,Outfit Neckwear C,Outfit Krawatten C,False
+Outfit Neckwear B,Outfit Neckwear B,Outfit Krawatte B,False
+Outfit Neckwear C,Outfit Neckwear C,Outfit Krawatte C,False
 Hair Side Branch >> A,Hair Side Branch >> A,Haarseitenzweig >> A,False
 Hair Side Branch >> B,Hair Side Branch >> B,Haarseitenzweig >> B,False
 Hair Side Branch >> C,Hair Side Branch >> C,Haarseitenzweig >> C,False

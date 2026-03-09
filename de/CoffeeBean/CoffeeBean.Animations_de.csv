@@ -57,8 +57,8 @@ Raid 2,Raid 2,Raid 2,True
 RedPacket 1,RedPacket 1,RedPacket 1,False
 RedPacket 2,RedPacket 2,RedPacket 2,False
 Rose,Rose,Rose,True
-Score (0 Point),Score (0 Point),Punkte (0 Punkte),True
-Score (10 Point),Score (10 Point),Punkte (10 Punkte),True
+Score (0 Point),Score (0 Point),Punkte (0),True
+Score (10 Point),Score (10 Point),Punkte (10),True
 Shy 1,Shy 1,Schüchtern 1,True
 Shy 2,Shy 2,Schüchtern 2,True
 Sleep (Normal),Sleep (Normal),Schlaf (normal),True
