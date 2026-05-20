@@ -52,8 +52,8 @@ MainMenu.Settings.ExportSettings.AlphaThreshold,Alpha Threshold,Başlangıç De�
 MainMenu.Settings.ExportSettings.EnableDithering,Enable Dithering,Titremeye İzin Ver,True
 MainMenu.Settings.ExportSettings.ResetExportSettings,Reset Export Settings,Dışarı Aktarma Ayarlarını Sıfırla,True
 MainMenu.Editor.Export,Export Emote,Emoji Dışa Aktar,True
-LicensePopup.ThirdPartyLicense.Notice,License provided by the model creator. Displayed for reference only and does not represent the EmoteLab developer’s views or legal position. ,"Lisans, modelin yaratıcısı tarafından sağlanmıştır. Yalnızca referans amacıyla gösterilmiştir ve EmoteLab geliştiricisinin görüşlerini veya yasal konumunu temsil etmemektedir.",False
-LicensePopup.ThirdPartyLicense.NotFound,"The creator of this third-party model has not provided a license or usage terms with the model. Before using this model in public, commercial, or professional contexts, you should confirm the permitted scope of use directly with the model's creator.",Lisans bulunamadı. Lütfen kullanım iznini yapımcıyla teyit edin.,False
+LicensePopup.ThirdPartyLicense.Notice,License provided by the model creator. Displayed for reference only and does not represent the EmoteLab developer’s views or legal position. ,"Lisans, modelin yaratıcısı tarafından sağlanmıştır. Yalnızca referans amacıyla gösterilmiştir ve EmoteLab geliştiricisinin görüşlerini veya yasal konumunu temsil etmemektedir.",True
+LicensePopup.ThirdPartyLicense.NotFound,"The creator of this third-party model has not provided a license or usage terms with the model. Before using this model in public, commercial, or professional contexts, you should confirm the permitted scope of use directly with the model's creator.",Lisans bulunamadı. Lütfen kullanım iznini yapımcıyla teyit edin.,True
 LicensePopup.Close,Close,Kapat,True
 MainMenu.Editor.OpenExportFolder,Open Export Folder,Dışa Aktarılan Dosyayı Göster,True
 MainMenu.Settings.ModelSettings.LoadSampleCharacters,Load Sample Characters for Built-in Models,Gömülü Modeller için Örnek Karakterler Yükle,True
@@ -104,6 +104,6 @@ Want to contribute? Join us on <link=""https://discord.gg/Xt8dAV8YF7"">Discord</
 Dili Ayarlar'dan değiştirebilirsiniz.
 
 <link=""https://github.com/GlycoProduction/EmoteLab-localization/graphs/contributors"">GitHub'daki topluluğa katkıda bulunanlarımıza</link> bakın.
-
-Katkıda bulunmak ister misiniz? <link=""https://discord.gg/Xt8dAV8YF7"">Discord</link>'ta bize katılın.",False
-MainMenu.TranslationInfo.DontShowAgain,Don't show this again,Bunu bir daha gösterme,False
+Türkçe Çeviri: Emoiso
+Katkıda bulunmak ister misiniz? <link=""https://discord.gg/Xt8dAV8YF7"">Discord</link>'ta bize katılın.",True
+MainMenu.TranslationInfo.DontShowAgain,Don't show this again,Bunu bir daha gösterme,True
