@@ -216,56 +216,56 @@ Wing >>,Wing >>,Kanatlar >>,True
 Wing >> Outline,Wing >> Outline,Kanatlar >> Anahat,True
 Wing <<,Wing <<,Kanatlar <<,True
 Wing << Outline,Wing << Outline,Kanatlar << Anahat,True
-Cape,Cape,Pelerin,False
-Cape Outline,Cape Outline,Cape Anahat,False
-Cheek,Cheek,Yanak,False
-Cockroach,Cockroach,Hamamböceği,False
-Controller,Controller,Denetleyici,False
-Donut,Donut,çörek,False
-Earring >>,Earring >>,Küpe >>,False
-Earring <<,Earring <<,Küpe <<,False
-Earring >> Outline,Earring >> Outline,Küpe >> Anahat,False
-Earring << Outline,Earring << Outline,Küpe << Anahat,False
-Face Feature A >>,Face Feature A >>,Yüz Özelliği A >>,False
-Face Feature A <<,Face Feature A <<,Yüz Özelliği A <<,False
-Face Feature B >>,Face Feature B >>,Yüz Özelliği B >>,False
-Face Feature B <<,Face Feature B <<,Yüz Özelliği B <<,False
-Face Feature C,Face Feature C,Yüz Özelliği C,False
-Facial Hair A,Facial Hair A,Sakal A,False
-Facial Hair A Outline,Facial Hair A Outline,Yüz Saç Bir Anahat,False
-Facial Hair B,Facial Hair B,Sakal B,False
-Facial Hair B Outline,Facial Hair B Outline,Yüz Saç B Anahat,False
-Glove >>,Glove >>,Eldiven >>,False
-Glove >> Outline,Glove >> Outline,Eldiven >> Anahat,False
-Glove <<,Glove <<,Eldiven <<,False
-Glove << Outline,Glove << Outline,Eldiven << Anahat,False
-Hand >>,Hand >>,El >>,False
-Hand >> Outline,Hand >> Outline,El >> Anahat,False
-Hand <<,Hand <<,El <<,False
-Hand << Outline,Hand << Outline,El << Anahat,False
-Gun,Gun,Silah,False
-Gun Flash,Gun Flash,Silah Flaş,False
-Lubricant,Lubricant,Yağlayıcı,False
-Megaphone,Megaphone,Megafon,False
-Nose,Nose,Burun,False
-Piercing A >>,Piercing A >>,Delici A >>,False
-Piercing A >> Outline,Piercing A >> Outline,Delme A >> Anahat,False
-Piercing A <<,Piercing A <<,Delici A <<,False
-Piercing A << Outline,Piercing A << Outline,Delici A << Anahat,False
-Piercing B >>,Piercing B >>,Delici B >>,False
-Piercing B >> Outline,Piercing B >> Outline,Delici B >> Anahat,False
-Piercing B <<,Piercing B <<,Delici B <<,False
-Piercing B << Outline,Piercing B << Outline,Delici B << Anahat,False
-Pixel Sun Glasses,Pixel Sun Glasses,Piksel Güneş Gözlüğü,False
-Pompom >>,Pompom >>,Ponpon >>,False
-Pompom <<,Pompom <<,Ponpon <<,False
-Spray,Spray,Sprey,False
-Sticker Light Bulb,Sticker Light Bulb,Etiket Ampul,False
-Sticker Loading,Sticker Loading,Çıkartma Yükleme,False
-Sunglasses,Sunglasses,Güneş gözlüğü,False
-Sunglasses Reflection,Sunglasses Reflection,Güneş Gözlüğü Yansıması,False
-Tape,Tape,Kaset,False
-Toilet,Toilet,Tuvalet,False
-Trash Bin,Trash Bin,Çöp Kutusu,False
-Wave Hand,Wave Hand,Dalga El,False
-Swatter,Swatter,Sineklik,False
+Cape,Cape,Pelerin,True
+Cape Outline,Cape Outline,Pelerin Anahat,True
+Cheek,Cheek,Yanak,True
+Cockroach,Cockroach,Hamamböceği,True
+Controller,Controller,Controller,True
+Donut,Donut,Çörek,True
+Earring >>,Earring >>,Küpe >>,True
+Earring <<,Earring <<,Küpe <<,True
+Earring >> Outline,Earring >> Outline,Küpe >> Anahat,True
+Earring << Outline,Earring << Outline,Küpe << Anahat,True
+Face Feature A >>,Face Feature A >>,Yüz Özelliği A >>,True
+Face Feature A <<,Face Feature A <<,Yüz Özelliği A <<,True
+Face Feature B >>,Face Feature B >>,Yüz Özelliği B >>,True
+Face Feature B <<,Face Feature B <<,Yüz Özelliği B <<,True
+Face Feature C,Face Feature C,Yüz Özelliği C,True
+Facial Hair A,Facial Hair A,Sakal A,True
+Facial Hair A Outline,Facial Hair A Outline,Sakal A Anahat,True
+Facial Hair B,Facial Hair B,Sakal B,True
+Facial Hair B Outline,Facial Hair B Outline,Sakal B Anahat,True
+Glove >>,Glove >>,Eldiven >>,True
+Glove >> Outline,Glove >> Outline,Eldiven >> Anahat,True
+Glove <<,Glove <<,Eldiven <<,True
+Glove << Outline,Glove << Outline,Eldiven << Anahat,True
+Hand >>,Hand >>,El >>,True
+Hand >> Outline,Hand >> Outline,El >> Anahat,True
+Hand <<,Hand <<,El <<,True
+Hand << Outline,Hand << Outline,El << Anahat,True
+Gun,Gun,Silah,True
+Gun Flash,Gun Flash,Silah Işığı,True
+Lubricant,Lubricant,Sprey Kutusu,True
+Megaphone,Megaphone,Megafon,True
+Nose,Nose,Burun,True
+Piercing A >>,Piercing A >>,Pirsing A >>,True
+Piercing A >> Outline,Piercing A >> Outline,Pirsing  A >> Anahat,True
+Piercing A <<,Piercing A <<,Pirsing A <<,True
+Piercing A << Outline,Piercing A << Outline,Pirsing A << Anahat,True
+Piercing B >>,Piercing B >>,Pirsing B >>,True
+Piercing B >> Outline,Piercing B >> Outline,Pirsing B >> Anahat,True
+Piercing B <<,Piercing B <<,Pirsing B <<,True
+Piercing B << Outline,Piercing B << Outline,Pirsing B << Anahat,True
+Pixel Sun Glasses,Pixel Sun Glasses,Piksel Güneş Gözlüğü,True
+Pompom >>,Pompom >>,Ponpon >>,True
+Pompom <<,Pompom <<,Ponpon <<,True
+Spray,Spray,Sprey,True
+Sticker Light Bulb,Sticker Light Bulb,İşaret Ampul,True
+Sticker Loading,Sticker Loading,İşaret Yükleniyor,True
+Sunglasses,Sunglasses,Güneş Gözlüğü,True
+Sunglasses Reflection,Sunglasses Reflection,Güneş Gözlüğü Yansıması,True
+Tape,Tape,Bant,True
+Toilet,Toilet,Tuvalet,True
+Trash Bin,Trash Bin,Çöp Kutusu,True
+Wave Hand,Wave Hand,El Salla,True
+Swatter,Swatter,Sineklik,True
