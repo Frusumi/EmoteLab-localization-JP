@@ -1,0 +1,271 @@
+Key,en,ja,reviewed
+Hair Ahoge,Hair Ahoge,アホ毛,True
+Hair Ahoge Outline,Hair Ahoge Outline,アホ毛 輪郭,True
+Animal Ear >>,Animal Ear >>,ケモ耳 >>,True
+Animal Ear >> Fur,Animal Ear >> Fur,ケモ耳 毛 >>,True
+Animal Ear >> Fur Outline,Animal Ear >> Fur Outline,ケモ耳 毛 輪郭 >>,True
+Animal Ear >> Outline,Animal Ear >> Outline,ケモ耳 輪郭 >>,True
+Animal Ear <<,Animal Ear <<,ケモ耳 <<,True
+Animal Ear << Fur,Animal Ear << Fur,ケモ耳 毛 <<,True
+Animal Ear << Fur Outline,Animal Ear << Fur Outline,ケモ耳 毛 輪郭 <<,True
+Animal Ear << Outline,Animal Ear << Outline,ケモ耳 輪郭 <<,True
+Antenna >>,Antenna >>,アンテナ >>,True
+Antenna >> Outline,Antenna >> Outline,アンテナ 輪郭 >>,True
+Antenna <<,Antenna <<,アンテナ <<,True
+Antenna << Outline,Antenna << Outline,アンテナ 輪郭 <<,True
+Hair Rear,Hair Rear,後ろ髪,True
+Hair Rear Outline,Hair Rear Outline,後ろ髪 輪郭,True
+Beverage Cup,Beverage Cup,飲み物のカップ,True
+Beverage Liquid,Beverage Liquid,飲み物,True
+Beverage Liquid 2,Beverage Liquid 2,飲み物 2,True
+Bill,Bill,紙幣,True
+Blanket Inner,Blanket Inner,ブランケット内側,True
+Blanket Outter,Blanket Outter,ブランケット外側,True
+Face Blush,Face Blush,頬の赤み,True
+Brow >>,Brow >>,眉 >>,True
+Brow <<,Brow <<,眉 <<,True
+Chopstick,Chopstick,お箸,True
+Crowbar,Crowbar,バール,True
+Cup,Cup,カップ,True
+Cup Steam,Cup Steam,湯気,True
+Door/Wall,Door/Wall,ドア／壁,True
+Eye(Dum) Pupil >>,Eye(Dum) Pupil >>,ほげ目 瞳 >>,True
+Eye(Dum) Pupil <<,Eye(Dum) Pupil <<,ほげ目 瞳 <<,True
+Eyebag,Eyebag,目のクマ,True
+Eye Iris Dark >>,Eye Iris Dark >>,虹彩 濃 >>,True
+Eye Iris Dark <<,Eye Iris Dark <<,虹彩 濃 <<,True
+Eye Dollar,Eye Dollar,お金の目,True
+Eye Heart,Eye Heart,ハート目,True
+Eye Highlight,Eye Highlight,目ハイライト,True
+Eyelashes,Eyelashes,まつげ,True
+Eye Iris Light >>,Eye Iris Light >>,虹彩 淡 >>,True
+Eye Iris Light <<,Eye Iris Light <<,虹彩 淡 <<,True
+Eye(Dum) Outline,Eye(Dum) Outline,ほげ目 輪郭,True
+Eye Sparkling,Eye Sparkling,キラキラ目,True
+Eye Spiral,Eye Spiral,ぐるぐる目,True
+Eye White,Eye White,白目,True
+Face Shadow,Face Shadow,顔影,True
+Fin >>,Fin >>,ヒレ >>,True
+Fin >> Outline,Fin >> Outline,ヒレ 輪郭 >>,True
+Fin <<,Fin <<,ヒレ <<,True
+Fin << Outline,Fin << Outline,ヒレ 輪郭 <<,True
+Hair Framing >>,Hair Framing >>,顔まわり髪 >>,True
+Hair Framing >> Outline,Hair Framing >> Outline,顔まわり髪 輪郭 >>,True
+Hair Framing <<,Hair Framing <<,顔まわり髪 <<,True
+Hair Framing << Outline,Hair Framing << Outline,顔まわり髪 輪郭 <<,True
+Gill,Gill,エラ,True
+Gill Outline,Gill Outline,エラ 輪郭,True
+Glasses,Glasses,メガネ,True
+Hairband A,Hairband A,ヘアバンド A,True
+Hairband A Outline,Hairband A Outline,ヘアバンド A 輪郭,True
+Hairband B,Hairband B,ヘアバンド B,True
+Hairband B Outline,Hairband B Outline,ヘアバンド B 輪郭,True
+Hairband C,Hairband C,ヘアバンド C,True
+Hairband C Outline,Hairband C Outline,ヘアバンド C 輪郭,True
+Hairband D,Hairband D,ヘアバンド D,True
+Hairband D Outline,Hairband D Outline,ヘアバンド D 輪郭,True
+Hair Bang >>,Hair Bang >>,前髪 >>,True
+Hair Bang >> Outline,Hair Bang >> Outline,前髪 輪郭 >>,True
+Hair Bang ><,Hair Bang ><,前髪 中央,True
+Hair Bang >< Outline,Hair Bang >< Outline,前髪 中央 輪郭,True
+Hair Bang <<,Hair Bang <<,前髪 <<,True
+Hair Bang << Outline,Hair Bang << Outline,前髪 輪郭 <<,True
+Hair Clip >>,Hair Clip >>,ヘアピン >>,True
+Hair Clip >> Outline,Hair Clip >> Outline,ヘアピン 輪郭 >>,True
+Hair Clip <<,Hair Clip <<,ヘアピン <<,True
+Hair Clip << Outline,Hair Clip << Outline,ヘアピン 輪郭 <<,True
+Hair Highlight 1 >>,Hair Highlight 1 >>,髪ハイライト 1 >>,True
+Hair Highlight 1 >> Outline,Hair Highlight 1 >> Outline,髪ハイライト 1 輪郭 >>,True
+Hair Highlight 2 >>,Hair Highlight 2 >>,髪ハイライト 2 >>,True
+Hair Highlight 2 >> Outline,Hair Highlight 2 >> Outline,髪ハイライト 2 輪郭 >>,True
+Hair Highlight 3 >>,Hair Highlight 3 >>,髪ハイライト 3 >>,True
+Hair Highlight 3 >> Outline,Hair Highlight 3 >> Outline,髪ハイライト 3 輪郭 >>,True
+Hair Highlight 1 ><,Hair Highlight 1 ><,髪ハイライト 1 中央,True
+Hair Highlight 1 >< Outline,Hair Highlight 1 >< Outline,髪ハイライト 1 中央 輪郭,True
+Hair Highlight 2 ><,Hair Highlight 2 ><,髪ハイライト 2 中央,True
+Hair Highlight 2 >< Outline,Hair Highlight 2 >< Outline,髪ハイライト 2 中央 輪郭,True
+Hair Highlight 3 ><,Hair Highlight 3 ><,髪ハイライト 3 中央,True
+Hair Highlight 3 >< Outline,Hair Highlight 3 >< Outline,髪ハイライト 3 中央 輪郭,True
+Hair Highlight 4 ><,Hair Highlight 4 ><,髪ハイライト 4 中央,True
+Hair Highlight 4 >< Outline,Hair Highlight 4 >< Outline,髪ハイライト 4 中央 輪郭,True
+Hair Highlight 5 ><,Hair Highlight 5 ><,髪ハイライト 5 中央,True
+Hair Highlight 5 >< Outline,Hair Highlight 5 >< Outline,髪ハイライト 5 中央 輪郭,True
+Hair Highlight 6 ><,Hair Highlight 6 ><,髪ハイライト 6 中央,True
+Hair Highlight 6 >< Outline,Hair Highlight 6 >< Outline,髪ハイライト 6 中央 輪郭,True
+Hair Highlight 1 <<,Hair Highlight 1 <<,髪ハイライト 1 <<,True
+Hair Highlight 1 << Outline,Hair Highlight 1 << Outline,髪ハイライト 1 輪郭 <<,True
+Hair Highlight 2 <<,Hair Highlight 2 <<,髪ハイライト 2 <<,True
+Hair Highlight 2 << Outline,Hair Highlight 2 << Outline,髪ハイライト 2 輪郭 <<,True
+Hair Highlight 3 <<,Hair Highlight 3 <<,髪ハイライト 3 <<,True
+Hair Highlight 3 << Outline,Hair Highlight 3 << Outline,髪ハイライト 3 輪郭 <<,True
+Hairline Outline,Hairline Outline,生え際 輪郭,True
+Hair Shine,Hair Shine,髪ツヤ,True
+Hair Shine Outline,Hair Shine Outline,髪ツヤ 輪郭,True
+Halo,Halo,天使の輪,True
+Halo Outline,Halo Outline,天使の輪 輪郭,True
+Hat,Hat,帽子,True
+Hat Outline,Hat Outline,帽子 輪郭,True
+Hat Secondary,Hat Secondary,帽子パーツ,True
+Hat Secondary Outline,Hat Secondary Outline,帽子パーツ 輪郭,True
+Hammer,Hammer,ハンマー,True
+Ear Wing >>,Ear Wing >>,耳羽 >>,True
+Ear Wing >> Outline,Ear Wing >> Outline,耳羽 輪郭 >>,True
+Ear Wing <<,Ear Wing <<,耳羽 <<,True
+Ear Wing << Outline,Ear Wing << Outline,耳羽 輪郭 <<,True
+Heart,Heart,ハート,True
+Horn >>,Horn >>,角 >>,True
+Horn >> Outline,Horn >> Outline,角 輪郭 >>,True
+Horn <<,Horn <<,角 <<,True
+Horn << Outline,Horn << Outline,角 輪郭 <<,True
+Horn ><,Horn ><,角 中央,True
+Horn >< Outline,Horn >< Outline,角 中央 輪郭,True
+Jail Grill,Jail Grill,牢屋格子,True
+Keyboard,Keyboard,キーボード,True
+Kitchen Knife,Kitchen Knife,包丁,True
+Laptop,Laptop,ノートPC,True
+Laptop Light,Laptop Light,ノートPCライト,True
+Leg >>,Leg >>,脚 >>,True
+Leg <<,Leg <<,脚 <<,True
+Lightstick Handle,Lightstick Handle,ペンライト持ち手,True
+Light Stick >>,Light Stick >>,ペンライト >>,True
+Light Stick <<,Light Stick <<,ペンライト <<,True
+Mecha,Mecha,メカ,True
+Mecha >>,Mecha >>,メカ >>,True
+Mecha >> Outline,Mecha >> Outline,メカ 輪郭 >>,True
+Mecha Outline,Mecha Outline,メカ 輪郭,True
+Mecha <<,Mecha <<,メカ <<,True
+Mecha << Outline,Mecha << Outline,メカ 輪郭 <<,True
+Mouse,Mouse,マウス,True
+Mouth/Tongue,Mouth/Tongue,口／舌,True
+Mouth/Tongue Shadow,Mouth/Tongue Shadow,口／舌 影,True
+Notepad,Notepad,メモ帳,True
+Outfit Collar,Outfit Collar,襟,True
+Outfit Collar Outline,Outfit Collar Outline,襟 輪郭,True
+Outfit Inner,Outfit Inner,服 内側,True
+Outfit Inner Outline,Outfit Inner Outline,服 内側 輪郭,True
+Outfit Neckwear A,Outfit Neckwear A,首アクセ A,True
+Outfit Neckwear A Outline,Outfit Neckwear A Outline,首アクセ A 輪郭,True
+Outfit Neckwear B,Outfit Neckwear B,首アクセ B,True
+Outfit Neckwear B Outline,Outfit Neckwear B Outline,首アクセ B 輪郭,True
+Outfit Neckwear C,Outfit Neckwear C,首アクセ C,True
+Outfit Neckwear C Outline,Outfit Neckwear C Outline,首アクセ C 輪郭,True
+Outfit Outer,Outfit Outer,服 外側,True
+Outfit Outer Outline,Outfit Outer Outline,服 外側 輪郭,True
+Pencil,Pencil,鉛筆,True
+Phone,Phone,スマホ,True
+Phone Light,Phone Light,スマホライト,True
+Hair Pigtail >>,Hair Pigtail >>,おさげ >>,True
+Hair Pigtail >> Outline,Hair Pigtail >> Outline,おさげ 輪郭 >>,True
+Hair Pigtail <<,Hair Pigtail <<,おさげ <<,True
+Hair Pigtail << Outline,Hair Pigtail << Outline,おさげ 輪郭 <<,True
+Rose,Rose,バラ,True
+Round Sign,Round Sign,採点棒,True
+Round Sign Text,Round Sign Text,採点棒の文字,True
+Hair Side,Hair Side,横髪,True
+Hair Side Outline,Hair Side Outline,横髪 輪郭,True
+Skin,Skin,肌,True
+Skin Outline,Skin Outline,肌 輪郭,True
+Square Sign,Square Sign,手持ち看板,True
+Square Sign Text,Square Sign Text,手持ち看板の文字,True
+Steering Wheel,Steering Wheel,ハンドル,True
+Gas Bottle,Gas Bottle,ガスボンベ,True
+Pat Hand,Pat Hand,なで手,True
+Sticker Alert,Sticker Alert,アラート エフェクト,True
+Sticker Alert Effect,Sticker Alert Effect,アラート エフェクト,True
+Sticker Alert Outline,Sticker Alert Outline,アラート 輪郭,True
+Sticker Angry,Sticker Angry,怒り エフェクト,True
+Sticker Exclamation Mark,Sticker Exclamation Mark,びっくりマーク エフェクト,True
+Sticker Ghost,Sticker Ghost,おばけ エフェクト,True
+Sticker Heart,Sticker Heart,ハート エフェクト,True
+Sticker Laugh,Sticker Laugh,笑い エフェクト,True
+Sticker Question Mark,Sticker Question Mark,はてな エフェクト,True
+Sticker Sleep,Sticker Sleep,睡眠 エフェクト,True
+Sticker Star,Sticker Star,星 エフェクト,True
+Sticker Steam,Sticker Steam,湯気 エフェクト,True
+Sticker Surprise,Sticker Surprise,びっくり エフェクト,True
+Sticker Sweat,Sticker Sweat,汗 エフェクト,True
+Sticker Sweat (Large),Sticker Sweat (Large),汗 エフェクト（大）,True
+Sticker Volume,Sticker Volume,音量 エフェクト,True
+Sticky Note,Sticky Note,ふせん（ほげ）,True
+Sticky Note Text,Sticky Note Text,ふせんの文字（ほげ）,True
+Eye Tear,Eye Tear,涙,True
+Utensil,Utensil,食器,True
+Outfit Collar String,Outfit Collar String,襟ひも,True
+Bell,Bell,ベル,True
+Confetti 1,Confetti 1,紙吹雪 1,True
+Confetti 2,Confetti 2,紙吹雪 2,True
+Confetti 3,Confetti 3,紙吹雪 3,True
+Microphone,Microphone,マイク,True
+Gleam,Gleam,キラーン,True
+Video Camera,Video Camera,ビデオカメラ,True
+Point Hand,Point Hand,指さし手,True
+Bowl,Bowl,ボウル,True
+Cake,Cake,ケーキ,True
+Candle Fire,Candle Fire,ろうそくの火,True
+Drawing Tablet,Drawing Tablet,ペンタブ,True
+Love Letter,Love Letter,ラブレター,True
+Popper,Popper,クラッカー,True
+Stylus,Stylus,ペンタブのペン,True
+Tablet,Tablet,タブレット,True
+Musical Note 1,Musical Note 1,音符 1,True
+Musical Note 2,Musical Note 2,音符 2,True
+Phone Screen,Phone Screen,スマホ画面,True
+Tail,Tail,しっぽ,True
+Tail Outline,Tail Outline,しっぽ 輪郭,True
+Wing >>,Wing >>,翼 >>,True
+Wing >> Outline,Wing >> Outline,翼 輪郭 >>,True
+Wing <<,Wing <<,翼 <<,True
+Wing << Outline,Wing << Outline,翼 輪郭 <<,True
+Cape,Cape,ケープ,True
+Cape Outline,Cape Outline,ケープ 輪郭,True
+Cheek,Cheek,頬,True
+Cockroach,Cockroach,虫,True
+Controller,Controller,コントローラー,True
+Donut,Donut,ドーナツ,True
+Earring >>,Earring >>,イヤリング >>,True
+Earring <<,Earring <<,イヤリング <<,True
+Earring >> Outline,Earring >> Outline,イヤリング 輪郭 >>,True
+Earring << Outline,Earring << Outline,イヤリング 輪郭 <<,True
+Face Feature A >>,Face Feature A >>,顔パーツ A >>,True
+Face Feature A <<,Face Feature A <<,顔パーツ A <<,True
+Face Feature B >>,Face Feature B >>,顔パーツ B >>,True
+Face Feature B <<,Face Feature B <<,顔パーツ B <<,True
+Face Feature C,Face Feature C,顔パーツ C,True
+Facial Hair A,Facial Hair A,ひげ A,True
+Facial Hair A Outline,Facial Hair A Outline,ひげ A 輪郭,True
+Facial Hair B,Facial Hair B,ひげ B,True
+Facial Hair B Outline,Facial Hair B Outline,ひげ B 輪郭,True
+Glove >>,Glove >>,手袋 >>,True
+Glove >> Outline,Glove >> Outline,手袋 輪郭 >>,True
+Glove <<,Glove <<,手袋 <<,True
+Glove << Outline,Glove << Outline,手袋 輪郭 <<,True
+Hand >>,Hand >>,手 >>,True
+Hand >> Outline,Hand >> Outline,手 輪郭 >>,True
+Hand <<,Hand <<,手 <<,True
+Hand << Outline,Hand << Outline,手 輪郭 <<,True
+Gun,Gun,銃,True
+Gun Flash,Gun Flash,銃口フラッシュ,True
+Lubricant,Lubricant,スプレー缶,True
+Megaphone,Megaphone,メガホン,True
+Nose,Nose,鼻,True
+Piercing A >>,Piercing A >>,ピアス A >>,True
+Piercing A >> Outline,Piercing A >> Outline,ピアス A 輪郭 >>,True
+Piercing A <<,Piercing A <<,ピアス A <<,True
+Piercing A << Outline,Piercing A << Outline,ピアス A 輪郭 <<,True
+Piercing B >>,Piercing B >>,ピアス B >>,True
+Piercing B >> Outline,Piercing B >> Outline,ピアス B 輪郭 >>,True
+Piercing B <<,Piercing B <<,ピアス B <<,True
+Piercing B << Outline,Piercing B << Outline,ピアス B 輪郭 <<,True
+Pixel Sun Glasses,Pixel Sun Glasses,サングラス（ドット）,True
+Pompom >>,Pompom >>,ポンポン >>,True
+Pompom <<,Pompom <<,ポンポン <<,True
+Spray,Spray,スプレー缶,True
+Sticker Light Bulb,Sticker Light Bulb,電球（ひらめき）,True
+Sticker Loading,Sticker Loading,ローディング,True
+Sunglasses,Sunglasses,サングラス,True
+Sunglasses Reflection,Sunglasses Reflection,サングラス 反射,True
+Tape,Tape,テープ,True
+Toilet,Toilet,トイレ,True
+Trash Bin,Trash Bin,ゴミ箱,True
+Wave Hand,Wave Hand,手振り,True
+Swatter,Swatter,ハエたたき,True
